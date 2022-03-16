@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>重症医学临床信息系统</title>
+    <script src="../static/js/jquery-1.11.1.min.js"></script>
+    <script src="../static/js/echarts.min.js"></script>
+    <link href="../static/css/main.css" rel="stylesheet"/>
+    <style type="text/css">
+    img{ width:100%;}
+    </style>
+</head>
+<body>
+<div id="title">重症监护病房智能决策系统</div>
+<div id="time">当前时间</div>
+<div id="l1">我是左1</div>
+<div id="l2">我是左2</div>
+<div id="c1">
+    <div class="topnav">
+        <h1>ICU病人信息</h1>
+    </div>
+    <div class="row">
+        <div class="column">
+            <ul>
+                <li style="background: #FCFFF2">
+                    <h2>Age</h2>
+                    <div class="num">
+                        <h2>40</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>Gender</h2>
+                    <div class="num">
+                        <h2>M</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>CLUCOSE</h2>
+                    <div class="num">
+                        <h2>245</h2>
+                    </div>
+                </li>
+                <li style="background: #FCFFF2">
+                    <h2>PO2</h2>
+                    <div class="num">
+                        <h2>123</h2>
+                    </div>
+                </li>
+                <li style="background: #FCFFF2">
+                    <h2>PAO2</h2>
+                    <div class="num">
+                        <h2>123</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>PCO2</h2>
+                    <div class="num">
+                        <h2>123</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>PH</h2>
+                    <div class="num">
+                        <h2>123</h2>
+                    </div>
+                </li>
+                <li style="background: #FCFFF2">
+                    <h2>BASE_EXCESS</h2>
+                    <div class="num">
+                        <h2>123</h2>
+                    </div>
+                </li>
+                <li style="background: #FCFFF2">
+                    <h2>TOTALCO2</h2>
+                    <div class="num">
+                        <h2>18</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>LACTATE</h2>
+                    <div class="num">
+                        <h2>2</h2>
+                    </div>
+                </li>
+                <li style="background: white">
+                    <h2>LACTATE</h2>
+                    <div class="num">
+                        <h2>2</h2>
+                    </div>
+                </li>
+                <li style="background: #FCFFF2">
+                    <h2>TOTALCO2</h2>
+                    <div class="num">
+                        <h2>18</h2>
+                    </div>
+                </li>
+
+
+            </ul>
+        </div>
+    </div>
+
+</div>
+<div id="c2">
+    <div class="topnav">
+        <h1>脓毒症可解释界面</h1>
+    </div>
+    <a href="../static/img/test.png">
+    <img src="data:;base64, {{ plot_url }}" >
+    </a>
+    <div class="topnav">
+        <h1>可视化分析</h1>
+    </div>
+    <a href="../static/img/lime.png">
+    <img src="data:;base64, {{ plot_url1 }}" >
+    </a>
+</div>
+<div id="r1"></div>
+<div id="r2"></div>
+
+</body>
+<script src="../static/js/ec_left1.js"></script>
+<script src="../static/js/ec_left2.js"></script>
+<script src="../static/js/ec_center1.js"></script>
+{#<script src="../static/js/ec_center2.js"></script>#}
+<script src="../static/js/ec_right1.js"></script>
+<script src="../static/js/ec_right2.js"></script>
+<!--<script src="../static/js/controller.js"></script>-->
+
+</html>

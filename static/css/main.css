@@ -1,0 +1,228 @@
+body {
+	margin: 0;
+	background: #FFFBA7;
+}
+
+#title {
+	position: absolute;
+	width: 40%;
+	height: 10%;
+	top: 0;
+	left: 30%;
+	/* background: #666666; */
+	color: black;
+	font-size: 40px;
+	/*字体居中显示 */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+#time {
+	position: absolute;
+	width: 30%;
+	height: 10%;
+	top: 0%;
+	left: 70%;
+	/*background: #666666;*/
+	color: black;
+	font-size: 20px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+#l1 {
+	position: absolute;
+	width: 29%;
+	height: 43%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 10%;
+	left: 0%;
+	/* background: #666666; */
+	color: black;
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	/*background: #FFFFFF;*/
+}
+#l2 {
+	position: absolute;
+	width: 29%;
+	height: 45%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 55%;
+	left: 0%;
+	/* background: #666666; */
+	color: black;
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	background: #FFFFFF;
+}
+#c1 {
+	position: absolute;
+	width: 43%;
+	height: 43%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 10%;
+	left: 30%;
+	/* background: #666666; */
+	color: white;
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	background: #FFFFFF;
+}
+.topnav {
+    overflow: hidden;
+    background-color: white;
+	font-family: "宋体";
+	font-style: normal;
+	font-weight: bold;
+	color: skyblue;
+	font-size: 8px;
+	height: 8%;
+}
+
+.column{
+	float: left;
+	width: 100%;
+	height: 6%;
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: bold;
+	color: skyblue;
+	font-size: 5px;
+	background:white;
+	padding-bottom: 1px;
+}
+.column ul {
+  	clear: both;
+  	overflow: hidden;
+	margin-left:-3%;
+}
+.column ul li {
+  	width: 47%;
+  	height: 9%;
+  	margin-bottom: 1%;
+	line-height:3px;
+  	background: white;
+  	float: left;
+	color: cadetblue;
+	font-size: 8px;
+}
+.column ul li:nth-child(even) {
+  margin-left:3%;
+}
+.column ul li .num {
+
+	color: gold;
+	font-size: 7px;
+	height: inherit;
+	font-family: "幼圆";
+	line-height:15px
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+/*.num {*/
+/*	!*width: 50%;*!*/
+/*	height: 20%;*/
+/*	float: top;*/
+
+/*	!*display: flex;*!*/
+/*	!*align-items: center;*!*/
+/*	!*justify-content: center;*!*/
+/*	color: gold;*/
+/*	font-size: 10px;*/
+/*	!*margin-top: 20px;*!*/
+/*}*/
+/*.txt {*/
+/*	!*width: 50%;*!*/
+/*	height: 20%;*/
+/*	float: top;*/
+/*	font-family: "幼圆";*/
+/*	!*display: flex;*!*/
+/*	!*align-items: center;*!*/
+/*	!*justify-content: center;*!*/
+/*}*/
+/*.txt h2 {*/
+/*	margin: 0;*/
+/*}*/
+
+#c2 {
+	position: absolute;
+	width: 43%;
+	height: 45%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 55%;
+	left: 30%;
+	/* background: #666666; */
+	color: black;
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	background: #FFFFFF;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #FFFFEA;
+	font-family: "幼圆";
+	color: black;
+	font-size: 8px;
+	height: 8%;
+}
+.img:hover{
+	 /*width:auto;*/
+ 	/* !*height:auto;*!*/
+ 	/* max-width:100%;*/
+ 	/* max-height:100%;*/
+	transform: scale(2);
+}
+
+
+#r1 {
+	position: absolute;
+	width: 26%;
+	height: 43%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 10%;
+	left: 74%;
+	/* background: #666666; */
+	/*color: white;*/
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	/*background: #777777;*/
+}
+
+
+#r2 {
+	position: absolute;
+	width: 26%;
+	height: 45%;
+
+	/*display: flex;*/
+	/*align-items: center;*/
+	top: 55%;
+	left: 74%;
+	/* background: #666666; */
+	/*color: white;*/
+	/*font-size: 40px;*/
+	/*justify-content: center;*/
+	/*background: #888888;*/
+}

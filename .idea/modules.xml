@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EASP-master/.idea/EASP-master.iml" filepath="$PROJECT_DIR$/../EASP-master/.idea/EASP-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LRF_BS_FINALLY_MODEL/.idea/LRF_BS_FINALLY_MODEL.iml" filepath="$PROJECT_DIR$/../LRF_BS_FINALLY_MODEL/.idea/LRF_BS_FINALLY_MODEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RAFA.iml" filepath="$PROJECT_DIR$/.idea/RAFA.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/Project2/cov2022/.idea/cov2022.iml" filepath="$APPLICATION_HOME_DIR$/Project2/cov2022/.idea/cov2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyecharts-flask-demo/.idea/pyecharts-flask-demo.iml" filepath="$PROJECT_DIR$/../pyecharts-flask-demo/.idea/pyecharts-flask-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snake-master/.idea/snake-master.iml" filepath="$PROJECT_DIR$/../snake-master/.idea/snake-master.iml" />
+    </modules>
+  </component>
+</project>

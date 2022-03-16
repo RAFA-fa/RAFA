@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebed0bf4-fe61-49dc-9d84-b6bc61e165e7" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="164" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24ieUbgiGbZQWUtopEXxuutVgoj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software\Pycharm\Pycharm2019\Project\RAFA\static\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\Pycharm\Pycharm2019\Project\RAFA\scripts" />
+      <recent name="D:\Software\Pycharm\Pycharm2019\Project\RAFA\scripts\model" />
+      <recent name="D:\Software\Pycharm\Pycharm2019\Project\RAFA\dataSets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="Explanation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RAFA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Explanation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyecharts-flask-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyecharts-flask-demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyecharts-flask-demo/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RAFA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RAFA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zdprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyecharts-flask-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyecharts-flask-demo/Py_DataProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyecharts-flask-demo/Py_DataProcess/zdprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.zdprocess" />
+        <item itemvalue="Python.Explanation" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebed0bf4-fe61-49dc-9d84-b6bc61e165e7" name="默认更改列表" comment="" />
+      <created>1644138930365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644138930365</updated>
+      <workItem from="1644138931562" duration="3645000" />
+      <workItem from="1644163983639" duration="433000" />
+      <workItem from="1644164433804" duration="1740000" />
+      <workItem from="1644166339418" duration="223000" />
+      <workItem from="1644222176730" duration="1987000" />
+      <workItem from="1644232968736" duration="2454000" />
+      <workItem from="1644235519686" duration="5801000" />
+      <workItem from="1644241447416" duration="311000" />
+      <workItem from="1644241883344" duration="598000" />
+      <workItem from="1644242509756" duration="605000" />
+      <workItem from="1644243298622" duration="1100000" />
+      <workItem from="1644244421173" duration="147000" />
+      <workItem from="1644244658681" duration="2248000" />
+      <workItem from="1644297664357" duration="9022000" />
+      <workItem from="1644329462512" duration="607000" />
+      <workItem from="1644330187795" duration="2597000" />
+      <workItem from="1644332929381" duration="964000" />
+      <workItem from="1644334038967" duration="2367000" />
+      <workItem from="1644395093625" duration="17120000" />
+      <workItem from="1644422256659" duration="355000" />
+      <workItem from="1644492849442" duration="6039000" />
+      <workItem from="1644681032484" duration="604000" />
+      <workItem from="1644740412872" duration="2776000" />
+      <workItem from="1644914390906" duration="912000" />
+      <workItem from="1645085394567" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="33" key="#snake_game" timestamp="1644308494677">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="447" y="33" key="#snake_game/0.0.1440.860@0.0.1440.860" timestamp="1644308494677" />
+    <state x="508" y="193" key="FileChooserDialogImpl" timestamp="1644420687724">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="508" y="193" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1644420687724" />
+    <state width="1384" height="278" key="GridCell.Tab.0.bottom" timestamp="1645085705974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="278" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1645085705974" />
+    <state width="1384" height="278" key="GridCell.Tab.0.center" timestamp="1645085705974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="278" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1645085705974" />
+    <state width="1384" height="278" key="GridCell.Tab.0.left" timestamp="1645085705974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="278" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1645085705974" />
+    <state width="1384" height="278" key="GridCell.Tab.0.right" timestamp="1645085705974">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="278" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1645085705974" />
+    <state width="1384" height="295" key="GridCell.Tab.1.bottom" timestamp="1644422156826">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="295" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1644422156826" />
+    <state width="1384" height="295" key="GridCell.Tab.1.center" timestamp="1644422156826">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="295" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1644422156826" />
+    <state width="1384" height="295" key="GridCell.Tab.1.left" timestamp="1644422156826">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="295" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1644422156826" />
+    <state width="1384" height="295" key="GridCell.Tab.1.right" timestamp="1644422156826">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="295" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1644422156826" />
+    <state width="1384" height="105" key="GridCell.Tab.2.bottom" timestamp="1644328555457">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="105" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1644328555457" />
+    <state width="1384" height="105" key="GridCell.Tab.2.center" timestamp="1644328555457">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="105" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1644328555457" />
+    <state width="1384" height="105" key="GridCell.Tab.2.left" timestamp="1644328555457">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="105" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1644328555457" />
+    <state width="1384" height="105" key="GridCell.Tab.2.right" timestamp="1644328555457">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1384" height="105" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1644328555457" />
+    <state x="244" y="85" width="994" height="710" key="SettingsEditor" timestamp="1644914485590">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="244" y="85" width="994" height="710" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1644914485590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/Explanation.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RAFA$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1644242940420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/RAFA$utils.coverage" NAME="utils Coverage Results" MODIFIED="1644498884035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RAFA$Explanation.coverage" NAME="Explanation Coverage Results" MODIFIED="1644502130703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/RAFA$zdprocess.coverage" NAME="zdprocess Coverage Results" MODIFIED="1644741618329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyecharts-flask-demo/Py_DataProcess" />
+    <SUITE FILE_PATH="coverage/RAFA$snake_game.coverage" NAME="snake_game Coverage Results" MODIFIED="1644308708639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../snake-master/snake-master" />
+    <SUITE FILE_PATH="coverage/RAFA$app.coverage" NAME="app Coverage Results" MODIFIED="1645085555261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RAFA$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1645085705952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyecharts-flask-demo" />
+  </component>
+</project>
